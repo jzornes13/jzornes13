@@ -3,7 +3,7 @@
 <!--
 **jzornes13/jzornes13** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 
-<h1>Hi, I'm Josh, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hi, I'm Jared, an <a href="(https://www.linkedin.com/in/jared-zornes-859248161?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1mgPM21pQ7mVu4Qp1Bsdrg%3D%3D)
 
 <h2> Information Technology Projects:</h2>
 

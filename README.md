@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jared, an <a href="https://linkedin.com/in/Jared-zornes">IT Professional</a></h1>
+<h1>Hi, I'm Jared, an <a href="https://www.linkedin.com/in/jared-zornes-859248161">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 - <b>osTicket (Help Desk Ticketing System)</b>

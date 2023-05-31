@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jzornes13/os-ticket-lifecycle)
   
  <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jzornes13/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jzornes13/on-premises-active-directory-deployed-in-the-cloud-azure)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jzornes13/azure-network-protocols)
 
 <h2>Connect with me:</h2>

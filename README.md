@@ -16,3 +16,8 @@
 [<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/jared-zornes-859248161?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1mgPM21pQ7mVu4Qp1Bsdrg%3D%3D
+
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/jrain-jz" style="min-width:320px;height:700px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
